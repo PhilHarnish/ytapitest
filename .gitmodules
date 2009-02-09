@@ -1,3 +1,6 @@
 [submodule "lib/yubitube"]
 	path = lib/yubitube
 	url = ../yubitube.git
+[submodule "lib/asunit"]
+	path = lib/asunit
+	url = ../asunit.git
