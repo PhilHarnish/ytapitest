@@ -1,0 +1,11 @@
+mtasc -swf ../bin/runtests.swf\
+      -version 8\
+      -cp ~/bin/std8/\
+      -cp ../lib/yubitube/src/\
+      -cp ../lib/asunit/as25/\
+      -cp ../test/\
+      -cp ./\
+      -header 640:480:20\
+      -strict -infer -wimp\
+      -trace yubi.util.Firebug.out\
+      -main Main.as
